@@ -3,7 +3,7 @@
 
 ---
 
-# 🌐 Socials
+## 🌐 Socials
 <p align="center">
   <a href="https://discord.gg/mr_muzml"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
   <a href="https://instagram.com/mr__muzml"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
@@ -13,7 +13,7 @@
 
 ---
 
-# ⚙️ Work in Progress
+## ⚙️ Work in Progress
 <p align="center">
 <table>
   <tr>
@@ -29,7 +29,7 @@
 
 ---
 
-# ⚡ Tech Arsenal
+## ⚡ Tech Arsenal
 <p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -40,7 +40,7 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muzml&theme=radical&hide_border=false&include_all_commits=false&count_private=false" /><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=muzml&theme=radical&hide_border=false" /><br/>
