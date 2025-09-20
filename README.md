@@ -1,5 +1,5 @@
-# 💫 About Me:
-## 👋 About Me<br><br>Hi! I'm **Muzammil Latheef Seedi**, a B.Tech 3rd-year student at **Muthoot Institute of Technology and Science**.<br>I’m passionate about building cool projects, exploring new technologies, and growing as a developer every day. <br><br>🌱 What I'm Currently Learning<br><br>* Data Structures & Algorithms (Python)<br>* Computer Vision with **YOLO & OpenCV** <br><br>💡 Interests<br><br>* AI & Machine Learning <br>* Competitive Programming & Problem Solving<br><br>🔧 Tech Stack<br><br>* **Languages**: Python, C<br>* **Tools & Frameworks**: YOLO,  PyTorch, Git/GitHub<br>* **Other**: Linux basics<br><br>
+# 💫 Hi 👋, I'm Muzamml Latheef Seedi
+## Passionate about building, exploring, and growing as a developer🦾. <br><br>🌱 What I'm Currently Learning<br><br>* Data Structures & Algorithms (Python)<br>* Computer Vision with **YOLO & OpenCV** <br><br>💡 Interests<br><br>* AI & Machine Learning <br>* Competitive Programming & Problem Solving<br><br>🔧 Tech Stack<br><br>* **Languages**: Python, C<br>* **Tools & Frameworks**: YOLO,  PyTorch, Git/GitHub<br>* **Other**: Linux basics<br><br>
 
 
 ## 🌐 Socials:
