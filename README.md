@@ -19,7 +19,7 @@
 
 
 ---
-### Computer Science Engineer | 🧠 AI & ML Explorer | Developer 🦾
+### Computer Science Engineer | AI & ML Explorer | Developer 🦾
 - ᴄᴏ-ғᴏᴜɴᴅᴇʀ @ ʟᴜɴᴀʟᴀʙs — ᴛᴏᴘ 100 @ ɪɴᴅɪᴀɴ sᴛᴀʀᴛᴜᴘ ʟᴇᴀɢᴜᴇ!
   
 ---
