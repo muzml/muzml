@@ -1,19 +1,30 @@
-# 💫 Hi 👋, I'm Muzammil Latheef Seedi
-## Passionate about building, exploring, and growing as a developer 🦾
-
----
-
-## 🌐 Socials
 <p align="center">
-  <a href="https://discord.gg/mr_muzml"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
-  <a href="https://instagram.com/mr__muzml"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/muzml-latheef6666/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:muzamilbng@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&color=FF5733&center=true&width=650&lines=Hey!+I'm+Muzammil+Latheef+Seedi;Startup+Founder&speed=2&pause=80&repeat=true" alt="Typing SVG"/>
 </p>
 
+<p align="center">
+  <a href="https://discord.gg/mr_muzml">
+    <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/mr__muzml">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muzml-latheef6666/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:muzamilbng@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+
+---
+### Computer Science Engineer | 🧠 AI & ML Explorer | Developer 🦾
+- ᴄᴏ-ғᴏᴜɴᴅᴇʀ @ ʟᴜɴᴀʟᴀʙs — ᴛᴏᴘ 100 @ ɪɴᴅɪᴀɴ sᴛᴀʀᴛᴜᴘ ʟᴇᴀɢᴜᴇ!
+  
 ---
 
-## ⚙️ Work in Progress
+### ⚙️ Work in Progress
 <p align="center">
 <table>
   <tr>
@@ -29,7 +40,7 @@
 
 ---
 
-## ⚡ Tech Arsenal
+### ⚡ Tech Arsenal
 <p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -40,7 +51,7 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muzml&theme=radical&hide_border=false&include_all_commits=false&count_private=false" /><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=muzml&theme=radical&hide_border=false" /><br/>
