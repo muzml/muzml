@@ -1,6 +1,5 @@
 # 💫 Hi 👋, I'm Muzamml Latheef Seedi
-## Passionate about building, exploring, and growing as a developer🦾. <br><br>🌱 What I'm Currently Learning<br><br>* Data Structures & Algorithms (Python)<br>* Computer Vision with **YOLO & OpenCV** <br><br>💡 Interests<br><br>* AI & Machine Learning <br>* Competitive Programming & Problem Solving<br><br>🔧 Tech Stack<br><br>* **Languages**: Python, C<br>* **Tools & Frameworks**: YOLO,  PyTorch, Git/GitHub<br>* **Other**: Linux basics<br><br>
-
+## Passionate about building, exploring, and growing as a developer🦾. 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mr_muzml) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr__muzml) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzml-latheef6666/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muzamilbng@gmail.com) 
