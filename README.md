@@ -28,6 +28,7 @@
 - ᴄᴏ-ғᴏᴜɴᴅᴇʀ @ ʟᴜɴᴀʟᴀʙs — ᴛᴏᴘ 100 @ ɪɴᴅɪᴀɴ sᴛᴀʀᴛᴜᴘ ʟᴇᴀɢᴜᴇ!
 - Passionate about Robotics & Autonomous Systems
 - Exploring Computer Vision, AI & Deep Learning
+  
 ---
 
 ### ⚙️ Work in Progress
