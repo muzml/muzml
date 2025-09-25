@@ -26,7 +26,8 @@
 ### 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 👋
 ### 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 | 𝐀𝐈 & 𝐌𝐋 𝐄𝐱𝐩𝐥𝐨𝐫𝐞𝐫 | 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 🦾
 - ᴄᴏ-ғᴏᴜɴᴅᴇʀ @ ʟᴜɴᴀʟᴀʙs — ᴛᴏᴘ 100 @ ɪɴᴅɪᴀɴ sᴛᴀʀᴛᴜᴘ ʟᴇᴀɢᴜᴇ!
-  
+- Passionate about Robotics & Autonomous Systems
+- Exploring Computer Vision, AI & Deep Learning
 ---
 
 ### ⚙️ Work in Progress
