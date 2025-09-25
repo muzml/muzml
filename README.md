@@ -41,6 +41,10 @@
     <td>👁️ <b>EYEZORA (Public Exam Monitoring System)</b></td>
     <td>[Currently Working On] - Developing a real-time exam monitoring solution.</td>
   </tr>
+  <tr>
+    <td>🛡️ <b>WOFE (Women Safety Device)</b></td>
+    <td>[Prototype Stage] - Designing a smart device focused on women’s safety and rapid response.</td>
+  </tr>
 </table>
 </p>
 
