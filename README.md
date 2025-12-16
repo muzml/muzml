@@ -4,7 +4,7 @@
 </p>
 
 <p align="center" style="text-decoration:none;">
-  <a href="https://discord.gg/mr_muzml" style="text-decoration:none;">
+  <a  href="https://discord.gg/mr_muzml" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://instagram.com/mr__muzml" style="text-decoration:none;">
