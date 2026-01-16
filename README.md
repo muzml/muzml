@@ -40,7 +40,7 @@
   </tr>
   <tr>
   <td>📊 <b>LynQX (AI-Driven Test Scenario & Coverage Platform)</b></td>
-  <td>[Currently Working On] – Building an end-to-end SDLC testing assistant for generating, reviewing, and validating test scenarios, test cases, and coverage.</td>
+  <td>[Currently Working On] – Building an end-to-end SDLC testing assistant for generating, reviewing, and validating test scenarios, test cases, and coverage. </td>
   </tr>
   <tr>
     <td>👁️ <b>EYEZORA (Public Exam Monitoring System)</b></td>
