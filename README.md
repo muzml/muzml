@@ -66,13 +66,50 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muzml&theme=radical&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=muzml&theme=radical&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzml&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p> 
+<h3 align="center">Git Stats</h3>
 
+<div align="center">
+
+  <!-- Streak -->
+  <img 
+    src="https://streak-stats.demolab.com/?user=muzml&theme=highcontrast&hide_border=true" 
+    alt="GitHub Streak"
+  />
+  <br>
+  
+  <!-- Activity Graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=muzml&custom_title=Muzammil's%20GitHub%20Activity%20Graph&bg_color=000000&color=FFD700&line=FFD700&point=FFD700&area=true&hide_border=true" 
+    alt="GitHub Activity Graph"
+  />
+  <br>
+
+  <!-- Languages Section -->
+  <table align="center">
+    <tr>
+      <td>
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muzml&theme=highcontrast"
+          alt="Top Languages by Repo"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muzml&theme=highcontrast"
+          alt="Top Languages by Commit"
+        />
+      </td>
+    </tr>
+  </table>
+  <br>
+
+  <!-- Profile Summary -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muzml&theme=highcontrast" 
+    alt="Profile Details"
+  />
+
+</div>
 ### 🔝 Top Contributed Repo
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=muzml&limit=5&theme=radical&combine_all_yearly_contributions=true" />
