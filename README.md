@@ -55,14 +55,9 @@
 
 ---
 
-### ⚡ Tech Arsenal
-<p align="center">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-</p>
+## Main skills
+
+<img src="https://skillicons.dev/icons?i=python,c,mysql,js,tensorflow,react,nodejs,mongodb,github&theme=dark" />
 
 ---
 
@@ -79,10 +74,9 @@
   
   <!-- Activity Graph -->
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=muzml&custom_title=Muzammil's%20GitHub%20Activity%20Graph&bg_color=000000&color=FFD700&line=FFD700&point=FFD700&area=true&hide_border=true" 
-    alt="GitHub Activity Graph"
-  />
-  <br>
+  src="https://github-readme-activity-graph.vercel.app/graph?username=muzml&custom_title=Muzammil's%20GitHub%20Activity%20Graph&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area=true&hide_border=true" 
+  alt="GitHub Activity Graph"
+/>
 
   <!-- Languages Section -->
   <table align="center">
