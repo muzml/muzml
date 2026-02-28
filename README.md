@@ -81,29 +81,30 @@
 />
 
   <!-- Languages Section -->
-  <table align="center">
-    <tr>
-      <td>
-        <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muzml&theme=highcontrast"
-          alt="Top Languages by Repo"
-        />
-      </td>
-      <td>
-        <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muzml&theme=highcontrast"
-          alt="Top Languages by Commit"
-        />
-      </td>
-    </tr>
-  </table>
-  <br>
+<table align="center" style="margin-bottom: 5px;">
+  <tr>
+    <td>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muzml&theme=highcontrast"
+        alt="Top Languages by Repo"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muzml&theme=highcontrast"
+        alt="Top Languages by Commit"
+      />
+    </td>
+  </tr>
+</table>
 
-  <!-- Profile Summary -->
+<!-- Profile Summary -->
+<p align="center" style="margin-top: -10px;">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muzml&theme=highcontrast" 
     alt="Profile Details"
   />
+</p>
 
 <h2 align="center">👨‍💻 Featured Repositories 👨‍💻</h2>
 
