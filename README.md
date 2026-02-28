@@ -106,31 +106,37 @@
   />
 </p>
 
-<h2 align="center">👨‍💻 Featured Repositories 👨‍💻</h2>
+---
+
+---
+
+<h2 align="center">⚡ Featured Projects ⚡</h2>
 
 <p align="center">
   <a href="https://github.com/muzml/LynQX">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=muzml&repo=LynQX&theme=highcontrast&hide_border=true" />
+    <img src="https://img.shields.io/badge/LynQX-AI%20Test%20Scenario%20%26%20Coverage%20Platform-000000?style=for-the-badge&logo=github&logoColor=FFD700" />
   </a>
+</p>
 
+<p align="center">
   <a href="https://github.com/muzml/EYEZORA">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=muzml&repo=EYEZORA&theme=highcontrast&hide_border=true" />
+    <img src="https://img.shields.io/badge/EYEZORA-Real--Time%20Exam%20Monitoring%20System-000000?style=for-the-badge&logo=github&logoColor=FFD700" />
   </a>
+</p>
 
+<p align="center">
   <a href="https://github.com/muzml/WiTrace">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=muzml&repo=WiTrace&theme=highcontrast&hide_border=true" />
+    <img src="https://img.shields.io/badge/WiTrace-WiFi%20CSI%20Human%20Presence%20Detection-000000?style=for-the-badge&logo=github&logoColor=FFD700" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/muzml?tab=repositories">
-    <img 
-      alt="All Repositories" 
-      title="All Repositories" 
-      src="https://custom-icon-badges.demolab.com/badge/-View%20All%20My%20Repositories-000000?style=for-the-badge&logo=repo&logoColor=FFD700" 
-    />
+    <img src="https://custom-icon-badges.demolab.com/badge/-VIEW%20ALL%20MY%20REPOSITORIES-000000?style=for-the-badge&logo=repo&logoColor=FFD700" />
   </a>
 </p>
+
+---
 
 ---
 
