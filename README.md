@@ -51,6 +51,10 @@
     <td>[Currently Working On] - Developing a real-time exam monitoring solution.</td>
   </tr>
   <tr>
+    <td><b>WiTrace (WiFi-Based Human Presence Detection)</b></td>
+    <td>[Research & Development] - A privacy-friendly ESP32 WiFi CSI system for real-time human presence detection without cameras.</td>
+  </tr>
+  <tr>
     <td><b>WOFE (Women Safety Device)</b></td>
     <td>[Prototype Stage] - Designing a smart device focused on women’s safety and rapid response.</td>
   </tr>
@@ -136,9 +140,4 @@
 </p>
 
 </div>
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=muzml&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</p>
 
----
