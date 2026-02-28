@@ -5,11 +5,8 @@
 </p>
 
 ### 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 👋
-### 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 | 𝐀𝐈 & 𝐌𝐋 𝐄𝐱𝐩𝐥𝐨𝐫𝐞𝐫 | 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 🦾
-- ᴄᴏ-ғᴏᴜɴᴅᴇʀ @ ʟᴜɴᴀʟᴀʙs — ᴛᴏᴘ 100 @ ɪɴᴅɪᴀɴ sᴛᴀʀᴛᴜᴘ ʟᴇᴀɢᴜᴇ!
-- Passionate about Robotics & Autonomous Systems
-- Exploring Computer Vision, AI & Deep Learning
-  
+
+Hi! I am a Computer Science Engineer and AI-focused developer passionate about building intelligent, scalable systems. As a Co-Founder of Lunalabs (Top 100 @ Indian Startup League), I work on AI-driven platforms including SDLC testing automation, real-time monitoring systems, and privacy-first sensing technologies. My experience includes working with Python, machine learning, and computer vision projects, where I focus on building practical and efficient solutions. I am comfortable working with modern frameworks, databases, and version control systems & I strive to create impactful technologies that solve real-world problems through innovation and system design.
 
 ### Main skills
 
