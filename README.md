@@ -39,15 +39,15 @@
     <th>Status & Goal</th>
   </tr>
   <tr>
-  <td>📊 <b>LynQX (AI-Driven Test Scenario & Coverage Platform)</b></td>
+  <td><b>LynQX (AI-Driven Test Scenario & Coverage Platform)</b></td>
   <td>[Currently Working On] – Building an end-to-end SDLC testing assistant for generating, reviewing, and validating test scenarios, test cases, and coverage. </td>
   </tr>
   <tr>
-    <td>👁️ <b>EYEZORA (Public Exam Monitoring System)</b></td>
+    <td><b>EYEZORA (Public Exam Monitoring System)</b></td>
     <td>[Currently Working On] - Developing a real-time exam monitoring solution.</td>
   </tr>
   <tr>
-    <td>🛡️<b>WOFE (Women Safety Device)</b></td>
+    <td><b>WOFE (Women Safety Device)</b></td>
     <td>[Prototype Stage] - Designing a smart device focused on women’s safety and rapid response.</td>
   </tr>
 </table>
