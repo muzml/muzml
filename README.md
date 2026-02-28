@@ -116,37 +116,40 @@
 
 <h2>Featured Projects</h2>
 
-<p>
-  <a href="https://github.com/muzml/LynQX">
-    <img src="https://img.shields.io/badge/LynQX-AI%20Test%20Scenario%20%26%20Coverage%20Platform-000000?style=for-the-badge&logo=github&logoColor=FFD700" />
+<div align="center">
+
+  <!-- Repo Buttons (Bigger + Spaced + No underline) -->
+  <a href="https://github.com/muzml/LynQX" 
+     style="display:inline-block; margin:0 14px; text-decoration:none;">
+    <img src="https://img.shields.io/badge/-LynQX-3A3A3A?style=for-the-badge&logo=github&logoColor=FFD700" />
   </a>
-</p>
 
-<p>
-  <a href="https://github.com/muzml/EYEZORA">
-    <img src="https://img.shields.io/badge/EYEZORA-Real--Time%20Exam%20Monitoring%20System-000000?style=for-the-badge&logo=github&logoColor=FFD700" />
+  <a href="https://github.com/muzml/EYEZORA" 
+     style="display:inline-block; margin:0 14px; text-decoration:none;">
+    <img src="https://img.shields.io/badge/-EYEZORA-3A3A3A?style=for-the-badge&logo=github&logoColor=FFD700" />
   </a>
-</p>
 
-<p>
-  <a href="https://github.com/muzml/WiTrace">
-    <img src="https://img.shields.io/badge/WiTrace-WiFi%20CSI%20Human%20Presence%20Detection-000000?style=for-the-badge&logo=github&logoColor=FFD700" />
+  <a href="https://github.com/muzml/WiTrace" 
+     style="display:inline-block; margin:0 14px; text-decoration:none;">
+    <img src="https://img.shields.io/badge/-WiTrace-3A3A3A?style=for-the-badge&logo=github&logoColor=FFD700" />
   </a>
-</p>
 
-<p>
-  <a href="https://github.com/muzml?tab=repositories">
-    <img src="https://custom-icon-badges.demolab.com/badge/-VIEW%20ALL%20MY%20REPOSITORIES-000000?style=for-the-badge&logo=repo&logoColor=FFD700" />
-  </a>
-</p>
+  <!-- Small controlled spacing -->
+  <div style="margin-top:8px; margin-bottom:0;">
+    <a href="https://github.com/muzml?tab=repositories" style="text-decoration:none;">
+      <img src="https://custom-icon-badges.demolab.com/badge/-VIEW%20ALL%20MY%20REPOSITORIES-000000?style=for-the-badge&logo=repo&logoColor=FFD700" />
+    </a>
+  </div>
 
----
-
-<h3 align="center">🐍 Contribution Snake</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/muzml/muzml/output/github-contribution-grid-snake-dark.svg" style="width: 100%;" />
-</p>
+  <!-- Snake (No extra gap) -->
+  <div style="margin-top:0; line-height:0;">
+    <img 
+      src="https://raw.githubusercontent.com/muzml/muzml/output/github-contribution-grid-snake-dark.svg" 
+      width="100%" 
+    />
+  </div>
 
 </div>
+
+---
 
