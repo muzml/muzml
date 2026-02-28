@@ -31,7 +31,11 @@
   
 ---
 
-### ⚙️ Work in Progress
+### Main skills
+
+<img src="https://skillicons.dev/icons?i=python,c,mysql,js,tensorflow,react,nodejs,mongodb,github&theme=dark" />
+
+### Work in Progress
 <p align="center">
 <table>
   <tr>
@@ -52,12 +56,6 @@
   </tr>
 </table>
 </p>
-
----
-
-## Main skills
-
-<img src="https://skillicons.dev/icons?i=python,c,mysql,js,tensorflow,react,nodejs,mongodb,github&theme=dark" />
 
 ---
 
