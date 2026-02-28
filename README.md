@@ -63,6 +63,8 @@
 
 ---
 
+<!-- ================= GIT STATS ================= -->
+
 <h3 align="center">Git Stats</h3>
 
 <div align="center">
@@ -76,67 +78,67 @@
   
   <!-- Activity Graph -->
   <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=muzml&custom_title=Muzammil's%20GitHub%20Activity%20Graph&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area=true&hide_border=true" 
-  alt="GitHub Activity Graph"
-/>
+    src="https://github-readme-activity-graph.vercel.app/graph?username=muzml&custom_title=Muzammil's%20GitHub%20Activity%20Graph&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area=true&hide_border=true" 
+    alt="GitHub Activity Graph"
+  />
 
   <!-- Languages Section -->
-<table align="center" style="margin-bottom: 5px;">
-  <tr>
-    <td>
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muzml&theme=highcontrast"
-        alt="Top Languages by Repo"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muzml&theme=highcontrast"
-        alt="Top Languages by Commit"
-      />
-    </td>
-  </tr>
-</table>
+  <table align="center" style="margin-bottom: 5px;">
+    <tr>
+      <td>
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muzml&theme=highcontrast"
+          alt="Top Languages by Repo"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muzml&theme=highcontrast"
+          alt="Top Languages by Commit"
+        />
+      </td>
+    </tr>
+  </table>
 
-<!-- Profile Summary -->
-<p align="center" style="margin-top: -10px;">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muzml&theme=highcontrast" 
-    alt="Profile Details"
-  />
-</p>
+  <!-- Profile Summary -->
+  <p style="margin-top: -10px;">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muzml&theme=highcontrast" 
+      alt="Profile Details"
+    />
+  </p>
+
+</div>
 
 ---
 
----
+<!-- ================= FEATURED PROJECTS ================= -->
 
-<h2 align="center">⚡ Featured Projects ⚡</h2>
+<h2>Featured Projects</h2>
 
-<p align="center">
+<p>
   <a href="https://github.com/muzml/LynQX">
     <img src="https://img.shields.io/badge/LynQX-AI%20Test%20Scenario%20%26%20Coverage%20Platform-000000?style=for-the-badge&logo=github&logoColor=FFD700" />
   </a>
 </p>
 
-<p align="center">
+<p>
   <a href="https://github.com/muzml/EYEZORA">
     <img src="https://img.shields.io/badge/EYEZORA-Real--Time%20Exam%20Monitoring%20System-000000?style=for-the-badge&logo=github&logoColor=FFD700" />
   </a>
 </p>
 
-<p align="center">
+<p>
   <a href="https://github.com/muzml/WiTrace">
     <img src="https://img.shields.io/badge/WiTrace-WiFi%20CSI%20Human%20Presence%20Detection-000000?style=for-the-badge&logo=github&logoColor=FFD700" />
   </a>
 </p>
 
-<p align="center">
+<p>
   <a href="https://github.com/muzml?tab=repositories">
     <img src="https://custom-icon-badges.demolab.com/badge/-VIEW%20ALL%20MY%20REPOSITORIES-000000?style=for-the-badge&logo=repo&logoColor=FFD700" />
   </a>
 </p>
-
----
 
 ---
 
