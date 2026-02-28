@@ -1,27 +1,8 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=JetBrains+Mono&size=32&color=FF5733&center=true&width=650&lines=Hey!+I'm+Muzammil+Latheef+Seedi;Startup+Founder&speed=2&pause=80&repeat=true" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&color=00BFBF&center=true&vCenter=true&width=1000&pause=1000&lines=Hello,+my+name+is+Muzammil;Be+Welcome!+:%29" />
 </p>
-
-<p align="center" style="text-decoration:none;">
-  <a  href="https://discord.gg/mr_muzml" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/mr__muzml" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muzml-latheef6666/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:muzamilbng@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="#" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Profile_Views-∞-FF5733?style=for-the-badge"/>
-  </a>
-</p>
-
----
 
 ### 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 👋
 ### 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 | 𝐀𝐈 & 𝐌𝐋 𝐄𝐱𝐩𝐥𝐨𝐫𝐞𝐫 | 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 🦾
@@ -29,7 +10,6 @@
 - Passionate about Robotics & Autonomous Systems
 - Exploring Computer Vision, AI & Deep Learning
   
----
 
 ### Main skills
 
@@ -65,50 +45,54 @@
 
 <!-- ================= GIT STATS ================= -->
 
-<h3 align="center">Git Stats</h3>
+<!-- ================= GIT STATS ================= -->
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/muzml">
+    <img align="center"
+         height="150em"
+         src="https://streak-stats.demolab.com?user=muzml&theme=highcontrast&hide_border=false&border_radius=10" />
+  </a>
+</p>
 
-  <!-- Streak -->
-  <img 
-    src="https://streak-stats.demolab.com/?user=muzml&theme=highcontrast&hide_border=true" 
-    alt="GitHub Streak"
-  />
-  <br>
-  
-  <!-- Activity Graph -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=muzml&custom_title=Muzammil's%20GitHub%20Activity%20Graph&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area=true&hide_border=true" 
-    alt="GitHub Activity Graph"
-  />
-
-  <!-- Languages Section -->
-  <table align="center" style="margin-bottom: 5px;">
-    <tr>
-      <td>
-        <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muzml&theme=highcontrast"
-          alt="Top Languages by Repo"
-        />
-      </td>
-      <td>
-        <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muzml&theme=highcontrast"
-          alt="Top Languages by Commit"
-        />
-      </td>
-    </tr>
-  </table>
-
-  <!-- Profile Summary -->
-  <p style="margin-top: -10px;">
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muzml&theme=highcontrast" 
-      alt="Profile Details"
+<p align="center">
+  <a href="https://github.com/muzml">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muzml&theme=highcontrast"
     />
-  </p>
+  </a>
+  <a href="https://github.com/muzml">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muzml&theme=highcontrast"
+    />
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/muzml">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muzml&theme=highcontrast"
+    />
+  </a>
+  <a href="https://github.com/muzml">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muzml&theme=highcontrast&utcOffset=8"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/muzml">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muzml&theme=highcontrast"
+    />
+  </a>
+</p>
 
 ---
 
@@ -150,6 +134,10 @@
   </div>
 
 </div>
+
+<h2 align="center">Thanks for visiting my profile.</h2>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 ---
 
