@@ -96,7 +96,6 @@ Hi! I am a Computer Science Engineer and AI-focused developer passionate about b
 <!-- ================= FEATURED PROJECTS ================= -->
 
 <h2>Featured Projects</h2>
-
 <div align="center">
 
   <!-- Repo Buttons (Bigger + Spaced + No underline) -->
