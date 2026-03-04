@@ -135,5 +135,3 @@ Hi! I am a Computer Science Engineer and AI-focused developer passionate about b
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
----
-
