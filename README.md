@@ -42,8 +42,6 @@ Hi! I am a Computer Science Engineer and AI-focused developer passionate about b
 
 <!-- ================= GIT STATS ================= -->
 
-<!-- ================= GIT STATS ================= -->
-
 <p align="center">
   <a href="https://github.com/muzml">
     <img align="center"
