@@ -124,7 +124,6 @@ Hi! I am a Computer Science Engineer and AI-focused developer passionate about b
       width="100%" 
     />
   </div>
-
 </div>
 
 <h2 align="center">Thanks for visiting my profile.</h2>
