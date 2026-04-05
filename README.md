@@ -10,7 +10,7 @@ Hi! I am a Computer Science Engineer and AI-focused developer passionate about b
 
 ### Main skills
 
-<img src="https://skillicons.dev/icons?i=python,c,mysql,js,tensorflow,react,nodejs,mongodb,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,mysql,js,tensorflow,react,nodejs,mongodb,flutter,github&theme=dark" />
 
 ### Work in Progress
 <p align="center">
@@ -101,12 +101,12 @@ Hi! I am a Computer Science Engineer and AI-focused developer passionate about b
   <img src="https://img.shields.io/badge/LYNQX-AI%20Testing%20Platform-black?style=for-the-badge&logo=github&logoColor=yellow"/>
 </a>
 
-<a href="https://github.com/muzml/EYEZORA">
-  <img src="https://img.shields.io/badge/EYEZORA-Exam%20Monitoring%20System-black?style=for-the-badge&logo=github&logoColor=yellow"/>
+<a href="https://github.com/muzml/Siren-Zero">
+  <img src="https://img.shields.io/badge/SIREN--ZERO-Offline%20AI%20Emergency%20System-black?style=for-the-badge&logo=github&logoColor=yellow"/>
 </a>
 
-<a href="https://github.com/muzml/WITRACE">
-  <img src="https://img.shields.io/badge/WITRACE-AI%20Traceability%20Engine-black?style=for-the-badge&logo=github&logoColor=yellow"/>
+<a href="https://github.com/muzml/EYEZORA">
+  <img src="https://img.shields.io/badge/EYEZORA-Exam%20Monitoring%20System-black?style=for-the-badge&logo=github&logoColor=yellow"/>
 </a>
 
 </p>
@@ -117,13 +117,12 @@ Hi! I am a Computer Science Engineer and AI-focused developer passionate about b
 </a>
 </p>
 
-  <!-- Snake (No extra gap) -->
-  <div style="margin-top:0; line-height:0;">
-    <img 
-      src="https://raw.githubusercontent.com/muzml/muzml/output/github-contribution-grid-snake-dark.svg" 
-      width="100%" 
-    />
-  </div>
+<!-- Snake (No extra gap) -->
+<div style="margin-top:0; line-height:0;">
+  <img 
+    src="https://raw.githubusercontent.com/muzml/muzml/output/github-contribution-grid-snake-dark.svg" 
+    width="100%" 
+  />
 </div>
 
 <h2 align="center">Thanks for visiting my profile.</h2>
