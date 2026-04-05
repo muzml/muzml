@@ -6,7 +6,7 @@
 
 ### 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 👋
 
-Hi! I am a Computer Science Engineer and AI-focused developer passionate about building intelligent, scalable systems. As a Co-Founder of Lunalabs (Top 100 @ Indian Startup League), I work on AI-driven platforms including SDLC testing automation, real-time monitoring systems, and privacy-first sensing technologies. My experience includes working with Python, machine learning, and computer vision projects, where I focus on building practical and efficient solutions. I am comfortable working with modern frameworks, databases, and version control systems & I strive to create impactful technologies that solve real-world problems through innovation and system design.
+Hi! I am a Computer Science Engineer and AI-focused developer passionate about building intelligent, scalable systems. As a Co-Founder of Lunalabs (Top 100 @ Indian Startup League), I work on AI-driven platforms including SDLC testing automation, real-time monitoring systems, and privacy-first sensing technologies. My experience includes working with Python, machine learning, and computer vision projects, along with building **Siren-Zero**, an offline AI-powered emergency response system with mesh communication and an intelligent chatbot, which was selected as a **Top 25 finalist at HackXtreme (All India)**. I focus on developing practical and efficient solutions and am comfortable working with modern frameworks, databases, and version control systems, striving to create impactful technologies that solve real-world problems through innovation and system design.
 
 ### Main skills
 
@@ -24,16 +24,16 @@ Hi! I am a Computer Science Engineer and AI-focused developer passionate about b
   <td>[Currently Working On] – Building an end-to-end SDLC testing assistant for generating, reviewing, and validating test scenarios, test cases, and coverage. </td>
   </tr>
   <tr>
+    <td><b>Siren-Zero (Offline AI Emergency Response System)</b></td>
+    <td>[Top 25 – HackXtreme (All India)] - Offline AI emergency system with mesh communication and chatbot.</td>
+  </tr>
+  <tr>
     <td><b>EYEZORA (Public Exam Monitoring System)</b></td>
     <td>[Currently Working On] - Developing a real-time exam monitoring solution.</td>
   </tr>
   <tr>
     <td><b>WiTrace (WiFi-Based Human Presence Detection)</b></td>
     <td>[Research & Development] - A privacy-friendly ESP32 WiFi CSI system for real-time human presence detection without cameras.</td>
-  </tr>
-  <tr>
-    <td><b>WOFE (Women Safety Device)</b></td>
-    <td>[Prototype Stage] - Designing a smart device focused on women’s safety and rapid response.</td>
   </tr>
 </table>
 </p>
