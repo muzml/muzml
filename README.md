@@ -29,7 +29,7 @@ Hi! I am a Computer Science Engineer and AI-focused developer passionate about b
   </tr>
   <tr>
     <td><b>EYEZORA (Public Exam Monitoring System)</b></td>
-    <td>[Currently Working On] - Developing a real-time exam monitoring solution.</td>
+    <td>Developed a real-time exam monitoring solution.</td>
   </tr>
   <tr>
     <td><b>WiTrace (WiFi-Based Human Presence Detection)</b></td>
