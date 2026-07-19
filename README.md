@@ -21,7 +21,7 @@ Hi! I am a Computer Science Engineer and AI-focused developer passionate about b
   </tr>
   <tr>
   <td><b>LynQX (AI-Driven Test Scenario & Coverage Platform)</b></td>
-  <td>[Currently Working On] – Building an end-to-end SDLC testing assistant for generating, reviewing, and validating test scenarios, test cases, and coverage. </td>
+  <td>[Currently working on] – Building an end-to-end SDLC testing assistant for generating, reviewing, and validating test scenarios, test cases, and coverage. </td>
   </tr>
   <tr>
     <td><b>Siren-Zero (Offline AI Emergency Response System)</b></td>
