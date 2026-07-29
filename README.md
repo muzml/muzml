@@ -10,7 +10,7 @@ Hi! I am a Computer Science Engineer and AI-focused developer passionate about b
 
 ### Main skills
 
-<img src="https://skillicons.dev/icons?i=python,c,mysql,js,tensorflow,react,nodejs,mongodb,flutter,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,mysql,js,tensorflow,react,nodejs,mongodb,flutter,fastapi,postgres,docker,github&theme=dark" />
 
 ### Work in Progress
 <p align="center">
